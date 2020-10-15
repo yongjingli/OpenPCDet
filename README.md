@@ -1,3 +1,8 @@
+## Updata by YongjingLi
+1. add ./tools/demo_save_pred.py, save pred_boxes i json for visualize in windows
+2. add ./tools/mayavi_utils.py, to show lidar points and pred boxes by mayavi
+3. add ./tools/run.sh, to run programs
+
 <img src="docs/open_mmlab.png" align="right" width="30%">
 
 # OpenPCDet
